@@ -13,7 +13,12 @@
 
 </div>
 
-## Segítségre van szükséged? Keresd Flakit
+## Segítségre van szükséged? Keresd Anikót vagy Flakit
+
+Fejes Anikó  
+Twitter: [@hubudibu](http://twitter.com/hubudibu)  
+Email: [aniko@bpweb.io](mailto:aniko@bpweb.io)  
+Telefon: +36704262628
 
 Szmozsánszky István "Flaki"  
 Twitter: [@slsoftworks](http://twitter.com/slsoftworks)  
@@ -36,7 +41,9 @@ Amennyiben egy résztvevő a konferencia területén zaklató magatartást tanus
 
 Amennyiben zaklatnak, vagy más látogatókkal kapcsolatban zaklatásra leszel figyelmes, illetve bármely másegyéb problémával keresd bizalommal minél hamarabb a konferencia szervezőit. A szervezőket fehér, a konferencia logójával nyomott pólójukról ismered fel.
 
-Amennyiben nem találsz szervezőt, Szmozsánszky István (Flaki) készséggel áll rendelkezésedre bármikor: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
+Amennyiben nem találsz szervezőt, Fejes Anikó vagy Szmozsánszky István (Flaki) készséggel áll rendelkezésedre bármikor:  
+Anikó: [@hubudibu](http://twitter.com/hubudibu), [aniko@bpweb.io](mailto:aniko@bpweb.io), +36704262628,  
+Flaki: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
 
 A konferencia szervezői örömmel segítenek felvenni a kapcsolatot a hotel/helyszín biztonsági szolgálatával és helyi rendfenntartó erőkkel, nyújtanak kíséretet és működnek közre bármely más módon a zaklatástól mentes konferencia-élmény biztosítása végett.
 
