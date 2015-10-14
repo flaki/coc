@@ -20,7 +20,7 @@ Telefon: +36704262628
 
 István Szmozsánszky "Flaki"  
 Twitter: [@slsoftworks](http://twitter.com/slsoftworks)  
-Email: [flaki@mozilla.hu](mailto:flaki@flaki.hu)  
+Email: [hello@flaki.hu](mailto:hello@flaki.hu)  
 Telefon: +36204741705
 
 ## The Quick Version
@@ -41,9 +41,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 In case you can’t find a staff member, Anikó Fejes or István Szmozsánszky (Flaki) is always there for you:  
 Anikó: [@hubudibu](http://twitter.com/hubudibu), [aniko@bpweb.io](mailto:aniko@bpweb.io), +36704262628,  
-Flaki: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
+Flaki: [@slsoftworks](http://twitter.com/slsoftworks), [hello@flaki.hu](mailto:hello@flaki.hu), +36204741705.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues, conference-related social events and social media.
-

@@ -22,7 +22,7 @@ Telefon: +36704262628
 
 Szmozsánszky István "Flaki"  
 Twitter: [@slsoftworks](http://twitter.com/slsoftworks)  
-Email: [flaki@mozilla.hu](mailto:flaki@flaki.hu)  
+Email: [hello@flaki.hu](mailto:hello@flaki.hu)  
 Telefon: +36204741705
 
 ## A rövid változat
@@ -43,7 +43,7 @@ Amennyiben zaklatnak, vagy más látogatókkal kapcsolatban zaklatásra leszel f
 
 Amennyiben nem találsz szervezőt, Fejes Anikó vagy Szmozsánszky István (Flaki) készséggel áll rendelkezésedre bármikor:  
 Anikó: [@hubudibu](http://twitter.com/hubudibu), [aniko@bpweb.io](mailto:aniko@bpweb.io), +36704262628,  
-Flaki: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
+Flaki: [@slsoftworks](http://twitter.com/slsoftworks), [hello@flaki.hu](mailto:hello@flaki.hu), +36204741705.
 
 A konferencia szervezői örömmel segítenek felvenni a kapcsolatot a hotel/helyszín biztonsági szolgálatával és helyi rendfenntartó erőkkel, nyújtanak kíséretet és működnek közre bármely más módon a zaklatástól mentes konferencia-élmény biztosítása végett.
 
