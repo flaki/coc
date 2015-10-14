@@ -11,7 +11,12 @@
 
 </div>
 
-## Need Help? Contact Flaki
+## Need Help? Contact Anikó or Flaki
+
+Anikó Fejes  
+Twitter: [@hubudibu](http://twitter.com/hubudibu)  
+Email: [aniko@bpweb.io](mailto:aniko@bpweb.io)  
+Telefon: +36704262628
 
 István Szmozsánszky "Flaki"  
 Twitter: [@slsoftworks](http://twitter.com/slsoftworks)  
@@ -34,7 +39,9 @@ If a participant engages in harassing behavior, the conference organizers may ta
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a white shirt with the conference's logo printed on it.
 
-In case you can’t find a staff member, Szmozsánszky István (Flaki) is always there for you: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
+In case you can’t find a staff member, Anikó Fejes or István Szmozsánszky (Flaki) is always there for you:  
+Anikó: [@hubudibu](http://twitter.com/hubudibu), [aniko@bpweb.io](mailto:aniko@bpweb.io), +36704262628,  
+Flaki: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
